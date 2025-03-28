@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Firstnsnd/harbor-proxy" // 替换为实际的模块路径
+	"github.com/Firstnsnd/docker-proxy" // 替换为实际的模块路径
 	"log"
 	"net/http"
 )
