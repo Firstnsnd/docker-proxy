@@ -27,7 +27,7 @@ Create a new reverse proxy and start handling requests:
 package main
 
 import (
-	"github.com/Firstnsnd/harbor-proxy"
+	"github.com/Firstnsnd/docker-proxy"
 	"log"
 	"net/http"
 )
