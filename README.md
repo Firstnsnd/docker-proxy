@@ -25,13 +25,13 @@ The following diagram illustrates the flow of request/response between client, p
 To use this library, you need to have Go installed. You can get the library by running:
 
 ```bash
-go get github.com/Firstnsnd/harbor-proxy
+go get github.com/Firstnsnd/docker-proxy
 ```
 
 ## Usage
 Import the package in your Go application:
 ```go
-import "github.com/Firstnsnd/harbor-proxy"
+import "github.com/Firstnsnd/docker-proxy"
 ```
 Create a new reverse proxy and start handling requests:
 
