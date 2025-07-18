@@ -2,7 +2,9 @@
 
 This Go library provides a reverse proxy implementation to handle requests and modify headers for a specified target domain.
 
-## Architecture Diagram
+## How It Works
+
+The following diagram illustrates the flow of request/response between client, proxy, and target domain.
 
 #### docker login
 
